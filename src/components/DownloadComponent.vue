@@ -7,7 +7,7 @@
             <li>{{ $t("content.list[2].content") }}</li>
             <li>{{ $t("content.list[3].content") }}</li>
         </ol>
-        <button><a href="/despertagoat.apk" download="despertagoat">{{ $t("content.button") }}</a></button>
+        <button><a href="/despertagoat.apk" download="despertagoat.apk">{{ $t("content.button") }}</a></button>
     </section>
 </template>
 

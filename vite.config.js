@@ -6,10 +6,5 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  server: {
-    content: {
-      '.apk': 'application/vnd.android.package-archive',
-    },
-  },
-  assetsInclude: '**/*.apk'
+  assetsInclude: '/*.apk'
 })
