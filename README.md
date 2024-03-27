@@ -1,4 +1,4 @@
-## Vue3 + Vite
+## Vue 3 + Vite
 ```
 npm install
 ```
